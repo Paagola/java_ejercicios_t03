@@ -1,6 +1,5 @@
 ## EJERCICIO 1
 
-<<<<<<< HEAD
 Realiza un programa que pida dos números
 enteros y que luego muestre el resultado de
 su multiplicación
@@ -14,10 +13,4 @@ su multiplicación
 ---
 
 ## EJERCICIO 2
-=======
-> Realiza un programa que pida dos números
-> enteros y que luego muestre el resultado de
-> su multiplicación
 
----
->>>>>>> 3bf4ecf237dcedbfd46bd8307ebca2c4a8336eaa
