@@ -4,7 +4,7 @@ Realiza un programa que pida dos números
 enteros y que luego muestre el resultado de
 su multiplicación
 
-# `Ejemplo 1` 
+## `Ejemplo 1` 
 
 > Este programa multiplica dos números entero.
 >
@@ -15,7 +15,7 @@ su multiplicación
 > **24 * 32 = 768** 
 
 
-# `Ejemplo 2`
+### `Ejemplo 2`
 
 > Este programa multiplica dos números entero.
 >
@@ -25,7 +25,7 @@ su multiplicación
 > 
 > **0 * 0 = 0**
 
-# `Ejemplo 3`
+### `Ejemplo 3`
 
 > Este programa multiplica dos números entero.
 >
@@ -37,11 +37,11 @@ su multiplicación
  
  ---
 
- ## EJERCICIO 2
+## EJERCICIO 2
 
 Realiza un conversor de euros a pesetas. La cantidad de euros que se quiere convertir deber ser introducida por teclado
 
-# `Ejemplo 1`
+### `Ejemplo 1`
 
 >
 > Por favor, introduzca la cantidad de eutos que quiere convertir: 50
@@ -49,7 +49,7 @@ Realiza un conversor de euros a pesetas. La cantidad de euros que se quiere conv
 > 50,00 euros son 8319 pesetas
 >
 
-# `Ejemplo 2`
+### `Ejemplo 2`
 
 >
 > Por favor, introduzca la cantidad de eutos que quiere convertir: 10
@@ -63,7 +63,7 @@ Realiza un conversor de euros a pesetas. La cantidad de euros que se quiere conv
 
 Realiza una conversión de pesetas a euros. La cantidad de pesetas que se quiere convertir deber ser introducida por teclado.
 
-# `Ejemplo 1`
+### `Ejemplo 1`
 
 >
 > Introduzca la cantidad de pesetas que quiere convertir: 5000
@@ -71,7 +71,7 @@ Realiza una conversión de pesetas a euros. La cantidad de pesetas que se quiere
 > 5000 pesetas son 30.05 euros.
 >
 
-# `Ejemplo 2`
+### `Ejemplo 2`
 
 >
 > Introduzca la cantidad de pesetas que quiere convertir: 200000
