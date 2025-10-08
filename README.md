@@ -45,6 +45,7 @@ Realiza un conversor de euros a pesetas. La cantidad de euros que se quiere conv
 
 >
 > Por favor, introduzca la cantidad de eutos que quiere convertir: 50
+>
 > 50,00 euros son 8319 pesetas
 >
 
@@ -52,5 +53,30 @@ Realiza un conversor de euros a pesetas. La cantidad de euros que se quiere conv
 
 >
 > Por favor, introduzca la cantidad de eutos que quiere convertir: 10
+>
 > 10,00 euros son 1663 pesetas
 >
+
+---
+
+## EJERCICIO 3
+
+Realiza una conversión de pesetas a euros. La cantidad de pesetas que se quiere convertir deber ser introducida por teclado.
+
+`Ejemplo 1`
+
+>
+> Introduzca la cantidad de pesetas que quiere convertir: 5000
+>
+> 5000 pesetas son 30.05 euros.
+>
+
+`Ejemplo 2`
+
+>
+> Introduzca la cantidad de pesetas que quiere convertir: 200000
+>
+> 200000 pesetas son 1202.02 euros.
+>
+
+---

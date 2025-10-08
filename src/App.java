@@ -21,8 +21,8 @@ public class App {
 
         System.out.println(numero1 + " * " + numero2 + " = " + numero1*numero2);
 
-        // EJERCICIO 2
 
+        // EJERCICIO 2
         System.err.println(ut.GREEN_BOLD + "EJERCICIO 2" + ut.RESET);
         System.out.println("""
                 Realiza un conversor de euros a pesetas. La cantidad de euros que se quiere 
@@ -33,6 +33,14 @@ public class App {
         double euros = Integer.parseInt(System.console().readLine());
         double pesetas = euros * 166.386;
         System.out.printf("%.2f euros son %d pesetas", euros, (int)pesetas);
+
+
+        // EJERCICIO 3
+        System.err.println(ut.GREEN_BOLD + "EJERCICIO 3" + ut.RESET);
+        System.out.println("""
+                Realiza un conversor de euros a pesetas. La cantidad de euros que se quiere 
+                convertir deber ser introducida por teclado
+                """);
 
     }
 }
