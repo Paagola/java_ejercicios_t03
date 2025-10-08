@@ -34,5 +34,23 @@ su multiplicación
 > Introduzca el segundo nombre: 11
 >
 > **-2 * 11 = -22**
+ 
+ ---
 
-wg
+ ## EJERCICIO 2
+
+Realiza un conversor de euros a pesetas. La cantidad de euros que se quiere convertir deber ser introducida por teclado
+
+`Ejemplo 1`
+
+>
+> Por favor, introduzca la cantidad de eutos que quiere convertir: 50
+> 50,00 euros son 8319 pesetas
+>
+
+`Ejemplo 2`
+
+>
+> Por favor, introduzca la cantidad de eutos que quiere convertir: 10
+> 10,00 euros son 1663 pesetas
+>
