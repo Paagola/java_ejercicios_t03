@@ -156,6 +156,46 @@ public class App {
         Double vol_cono = ((double)1/3) * Math.PI * Math.pow(rad_cono, 2) * alt_cono;
 
         System.out.printf("El volumen del cono es de %s cm^3%n%n", df.format(vol_cono));
+
+
+        //EJERCICIO 10
+        System.err.println(ut.GREEN_BOLD + "EJERCICIO 10" + ut.RESET);
+        System.out.println("""
+              Realiza un conversor de Mb a Kb
+                """);
+        System.out.print("Por favor, introduzca el número de Mb: ");
+        Double Mb = Double.parseDouble(System.console().readLine());
+        Double conver_a_kb = Mb * 1024;
+        System.out.printf("%.2fMb son %.2fKb%n%n",Mb, conver_a_kb );
+
+
+        //EJERCICIO 11
+        System.err.println(ut.GREEN_BOLD + "EJERCICIO 11" + ut.RESET);
+        System.out.println("""
+              Realiza un conversor de kb a Mb
+                """);
+        System.out.print("Por favor, introduzca el número de kb: ");
+        Double Kb = Double.parseDouble(System.console().readLine());
+        Double conver_a_Mb = Kb / 1024;
+        System.out.printf("%.2fMb son %.2fKb%n%n",Kb, conver_a_Mb );
+
+        //EJERCICIO 12
+        System.err.println(ut.GREEN_BOLD + "EJERCICIO 12" + ut.RESET);
+        System.out.println("""
+              Realiza un programa que calcule la nota que hace falta sacar en el segundo examen 
+              de la asignatura "Programación" para obtener la media deseada. Hay que tener 
+              en cuenta que la nota del primer examen cuenta el 40% y la del segundo exmane un 60%. 
+                """);
+        System.out.print("Introduzca la nota del primer examen: ");
+        Double examen = Double.parseDouble(System.console().readLine());
+        
+        System.out.print("¿Qué nota quiere sacar en el trimestre?: ");
+        Double media_desada = Double.parseDouble(System.console().readLine());
+
+        Double nota_necesaria = (media_desada - (examen * 0.4)) / 0.6;
+
+        System.out.printf("Para tener un %.2f en el trimestre necesita sacar un %.2f en el segundo examen.", media_desada, nota_necesaria);
+
         
     }
 }

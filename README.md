@@ -241,3 +241,68 @@ V = (1 / 3) * 3.14159265 * r<sup>2</sup> * h
 > Introduzca el radio de la base (cm): 9.6
 > 
 > **El volumen del cono es de 3474.35014791168 cm<sup>3</sup>**
+
+<br>
+
+---
+
+<br>
+
+## EJERCICIO 10
+
+Realiza un conversor de Mb a Kb
+
+### `Ejemplo 1`
+
+> Por favor, introduzca el número de Mb: 2.5
+>
+> 2.5Mb son 2560.0Kb
+
+### `Ejemplo 2`
+
+> Por favor, introduzca el número de Mb: 0.1
+>
+> 0.1Mb son 102.4Kb
+
+<br>
+
+---
+
+<br>
+
+## EJERCICIO 11
+
+Realiza un conversor de kb a Mb
+
+### `Ejemplo`
+
+> Por favor, introduzca el número de kb: 1024
+>
+> 1024Kb son 1.0Mb
+
+<br>
+
+---
+
+<br>
+
+## EJERCICIO 12
+
+Realiza un programa que calcule la nota que hace falta sacar en el segundo examen de la asignatura "Programación" para 
+obtener la media deseada. Hay que tener en cuenta que la nota del primer examen cuenta el 40% y la del segundo exmane un 60%. 
+
+### `Ejemplo 1`
+
+> Introduzca la nota del primer examen: 7
+>
+> ¿Qué nota quiere sacar en el trimestre?: 8.5
+>
+> Para tener un 8.5 en el trimestre necesita sacar un 9.5 en el segundo examen.
+
+### `Ejemplo 2`
+
+> Introduzca la nota del primer examen: 8
+>
+> ¿Qué nota quiere sacar en el trimestre?: 7
+>
+> Para tener un 7 en el trimestre necesita sacar un 6.33 en el segundo examen.
