@@ -4,7 +4,7 @@ Realiza un programa que pida dos números
 enteros y que luego muestre el resultado de
 su multiplicación
 
-## `Ejemplo 1` 
+### `Ejemplo 1` 
 
 > Este programa multiplica dos números entero.
 >
@@ -86,7 +86,7 @@ Realiza una conversión de pesetas a euros. La cantidad de pesetas que se quiere
 Escribe un programa que sume, reste, multiplique y divida dos números introducidos por teclado. 
 Los números que introduce el usuario podría tener decimales.
 
-# `Ejemplo 1`
+### `Ejemplo 1`
 
 > Por favor, introduzca el primer número: 3
 >
@@ -104,7 +104,7 @@ Los números que introduce el usuario podría tener decimales.
 > 
 > x * y = 231.0
 
-# `Ejemplo 2`
+### `Ejemplo 2`
 
 > Por favor, introduzca el primer número: 1.5
 >
