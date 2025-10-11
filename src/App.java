@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.text.DecimalFormat;
 
 public class App {
     public static void main(String[] args) throws Exception {
@@ -20,6 +21,7 @@ public class App {
         int numero2 = Integer.parseInt(System.console().readLine());
 
         System.out.println(numero1 + " * " + numero2 + " = " + numero1*numero2);
+        System.out.printf("%n");
 
 
         // EJERCICIO 2
@@ -45,8 +47,31 @@ public class App {
         System.out.print("Por favor, introduzca la cantidad de pesetas que quiere converitir: ");
         int psetas = Integer.parseInt(System.console().readLine());
         double eros = psetas / 166.386;
-        System.out.printf("%d pesetas son %.2f euros", psetas, eros);
+        System.out.printf("%d pesetas son %.2f euros%n%n", psetas, eros);
 
+
+        // EJERCICIO 4
+        System.err.println(ut.GREEN_BOLD + "EJERCICIO 4" + ut.RESET);
+        System.out.println("""
+                Escribe un programa que sume, reste, multiplique y divida dos números 
+                introducidos por teclado. 
+                Los números que introduce el usuario podría tener decimales.
+                """);
+        Scanner s = new Scanner(System.in);
+        
+
+        System.out.print("Por favor introduzca el primero número: ");
+        double x = s.nextDouble();
+        s.nextLine();
+        System.out.print("Introduzca el segundo número: ");
+        double y = s.nextDouble();
+        s.nextLine();
+        // Sistema para que muestre en la división los decimales necesarios solo
+        double division = x / y;
+        DecimalFormat df = new DecimalFormat("#.#######################"); //máximo 8 decimales
+        System.out.printf("x = %.1f%ny = %.1f%nx + y = %.1f%nx - y = %.1f%nx / y = %s%nx * y = %.1f%n", 
+                        x, y, x + y, x - y, df.format(division), x * y);
+                
     }
 }
  

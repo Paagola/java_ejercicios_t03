@@ -80,3 +80,47 @@ Realiza una conversión de pesetas a euros. La cantidad de pesetas que se quiere
 >
 
 ---
+
+## EJERCICIO 4
+
+Escribe un programa que sume, reste, multiplique y divida dos números introducidos por teclado. 
+Los números que introduce el usuario podría tener decimales.
+
+# `Ejemplo 1`
+
+> Por favor, introduzca el primer número: 3
+>
+> Introduzca el segundo número: 77
+>
+> x = 3.0
+>
+> x = 77.0
+>
+> x + y = 80.0
+>
+> x - y = -74.0
+>
+> x / y = 0.03896103896103896
+> 
+> x * y = 231.0
+
+# `Ejemplo 2`
+
+> Por favor, introduzca el primer número: 1.5
+>
+> Introduzca el segundo número: 2
+>
+> x = 1.5
+>
+> x = 2.0
+>
+> x + y = 3.5
+>
+> x - y = -0.5
+>
+> x / y = 0.75
+> 
+> x * y = 3.0
+
+---
+
