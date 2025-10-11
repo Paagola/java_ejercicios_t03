@@ -81,17 +81,49 @@ public class App {
                 """);
         
         System.out.print("""
-                        \t          Área de un rectángulo
+                        \t        Área de un rectángulo
                         -----------------------------------------------------
                         """);
         System.out.print("Por favor introduzca la longitud de la base (cm): ");
-        Double base = s.nextDouble();
+        Double base_rect = s.nextDouble();
         s.nextLine();
         System.out.printf("Introduzca la altura (cm): ");
-        Double altura = s.nextDouble();
+        Double altura_rect = s.nextDouble();
 
-        System.out.println("El área del rectángulo es " + altura * base + " cm^2");
+        System.out.println("El área del rectángulo es " + altura_rect * base_rect + " cm^2\n");
 
+
+        //EJERCICIO 6
+        System.err.println(ut.GREEN_BOLD + "EJERCICIO 6" + ut.RESET);
+        System.out.println("""
+               Escribe un programa que calcule el área de un triángulo
+                """);
+        
+        System.out.print("""
+                        \t        Área de un triángulo
+                        -----------------------------------------------------
+                        """);
+
+        System.out.print("Por favor introduzca la longitud de la base (cm): ");
+        Double base_trian = s.nextDouble();
+        s.nextLine();
+        System.out.printf("Introduzca la altura (cm): ");
+        Double altura_trian = s.nextDouble();
+
+        System.out.println("El área del triángulo es " + (altura_trian * base_trian) / 2 + " cm^2\n");
+
+
+        //EJERCICIO 7
+        System.err.println(ut.GREEN_BOLD + "EJERCICIO 7" + ut.RESET);
+        System.out.println("""
+               Escribe un programa que calcule la factura a través de la base imponible
+                """);
+        System.out.print("Introduce la base imponible (precio del artículo sun IVA): ");
+        Double base_imp = Double.parseDouble(System.console().readLine());
+        Double IVA = (base_imp / 100) * 21;
+
+        System.out.printf("%-15s %15.2f $%n%-15s %15.2f $%n", "Base imponible:", base_imp, "IVA (21%)", IVA);
+        System.err.println("-----------------------------------");
     }
 }
  

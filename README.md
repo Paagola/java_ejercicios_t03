@@ -147,9 +147,9 @@ Escribe un programa que calcule el área de un rectángulo
 ### `Ejemplo`
 
 >
-> Área de un rectángulo
+>                 Área de un rectángulo
 >
-> ---------------------
+> --------------------------------------------------------
 >
 > Por favor, introduzca la longitud de la base (cm): 12.75
 >
@@ -162,5 +162,54 @@ Escribe un programa que calcule el área de un rectángulo
 --- 
 
 <br>
+
+## EJERCICIO 6
+
+ Escribe un programa que calcule el área de un triángulo
+
+
+### `Ejemplo`
+
+>                 Área de un triángulo
+>
+> --------------------------------------------------------
+>
+> Por favor, introduzca la longitud de la base (cm): 22
+>
+> Introduzca la altura (cm): 11
+>
+> El área del rectangulo es 121.0 cm<sup>2</sup>
+
+<br>
+
+---
+
+<br>
+
+## EJERCICIO 7
+
+Escribe un programa que calcule la factura a través de la base imponible
+
+## `Ejemplo`
+
+> Base imponible:     18.45 €
+>
+> IVA (21%):           3.87 €
+>
+> ---------------------------
+>
+> Total:              22.32 €
+
+<br>
+
+---
+
+<br>
+
+
+
+
+
+
 
 
