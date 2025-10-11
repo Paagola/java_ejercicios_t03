@@ -36,6 +36,7 @@ su multiplicación
 > **-2 * 11 = -22**
  
  ---
+<br>
 
 ## EJERCICIO 2
 
@@ -58,6 +59,7 @@ Realiza un conversor de euros a pesetas. La cantidad de euros que se quiere conv
 >
 
 ---
+<br>
 
 ## EJERCICIO 3
 
@@ -80,6 +82,7 @@ Realiza una conversión de pesetas a euros. La cantidad de pesetas que se quiere
 >
 
 ---
+<br>
 
 ## EJERCICIO 4
 
