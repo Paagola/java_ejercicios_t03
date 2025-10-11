@@ -35,7 +35,11 @@ su multiplicación
 >
 > **-2 * 11 = -22**
  
+ <br>
+
  ---
+
+ <br>
 
 ## EJERCICIO 2
 
@@ -58,7 +62,9 @@ Realiza un conversor de euros a pesetas. La cantidad de euros que se quiere conv
 >
 
 <br>
+
 ---
+
 <br>
 
 ## EJERCICIO 3
@@ -82,7 +88,9 @@ Realiza una conversión de pesetas a euros. La cantidad de pesetas que se quiere
 >
 
 <br>
+
 ---
+
 <br>
 
 ## EJERCICIO 4
@@ -127,7 +135,9 @@ Los números que introduce el usuario podría tener decimales.
 > x * y = 3.0
 
 <br>
+
 ---
+
 <br>
 
 ## EJERCICIO 5
@@ -148,7 +158,9 @@ Escribe un programa que calcule el área de un rectángulo
 > El área del rectangulo es 127.5 cm<sup>2</sup>
 
 <br>
+
 --- 
+
 <br>
 
 
