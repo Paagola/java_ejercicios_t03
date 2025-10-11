@@ -192,13 +192,12 @@ Escribe un programa que calcule la factura a través de la base imponible
 
 ## `Ejemplo`
 
-> Base imponible:     18.45 €
->
-> IVA (21%):           3.87 €
->
-> - - - - - - - - - - - - - -
->
-> Total:              22.32 €
+>| Concepto          | Cantidad  |
+>|-------------------|-----------|
+>| Base imponible:   | 18.45 €   |
+>| IVA (21%):        | 3.87 €    |
+>| **Total:**        | **22.32 €** |
+
 
 <br>
 
