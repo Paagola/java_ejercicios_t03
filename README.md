@@ -170,8 +170,8 @@ Escribe un programa que calcule el área de un rectángulo
 
 ### `Ejemplo`
 
->                 Área de un triángulo
->
+>                 
+>                       Área de un triángulo
 > --------------------------------------------------------
 >
 > Por favor, introduzca la longitud de la base (cm): 22
@@ -196,7 +196,7 @@ Escribe un programa que calcule la factura a través de la base imponible
 >
 > IVA (21%):           3.87 €
 >
-> ---------------------------
+> - - - - - - - - - - - - - -
 >
 > Total:              22.32 €
 
