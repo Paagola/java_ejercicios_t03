@@ -69,9 +69,29 @@ public class App {
         // Sistema para que muestre en la división los decimales necesarios solo
         double division = x / y;
         DecimalFormat df = new DecimalFormat("#.#######################"); //máximo 8 decimales
-        System.out.printf("x = %.1f%ny = %.1f%nx + y = %.1f%nx - y = %.1f%nx / y = %s%nx * y = %.1f%n", 
+        // Impresión por pantalla de resultado
+        System.out.printf("x = %.1f%ny = %.1f%nx + y = %.1f%nx - y = %.1f%nx / y = %s%nx * y = %.1f%n%n", 
                         x, y, x + y, x - y, df.format(division), x * y);
-                
+
+        
+        //EJERCICIO 5
+        System.err.println(ut.GREEN_BOLD + "EJERCICIO 5" + ut.RESET);
+        System.out.println("""
+                Escribe un programa que calcule el área de un rectángulo
+                """);
+        
+        System.out.print("""
+                        \t          Área de un rectángulo
+                        -----------------------------------------------------
+                        """);
+        System.out.print("Por favor introduzca la longitud de la base (cm): ");
+        Double base = s.nextDouble();
+        s.nextLine();
+        System.out.printf("Introduzca la altura (cm): ");
+        Double altura = s.nextDouble();
+
+        System.out.println("El área del rectángulo es " + altura * base + " cm^2");
+
     }
 }
  

@@ -35,7 +35,9 @@ su multiplicación
 >
 > **-2 * 11 = -22**
  
- ---
+<br>
+---
+<br>
 
 ## EJERCICIO 2
 
@@ -57,7 +59,9 @@ Realiza un conversor de euros a pesetas. La cantidad de euros que se quiere conv
 > 10,00 euros son 1663 pesetas
 >
 
+<br>
 ---
+<br>
 
 ## EJERCICIO 3
 
@@ -79,14 +83,16 @@ Realiza una conversión de pesetas a euros. La cantidad de pesetas que se quiere
 > 200000 pesetas son 1202.02 euros.
 >
 
+<br>
 ---
+<br>
 
 ## EJERCICIO 4
 
 Escribe un programa que sume, reste, multiplique y divida dos números introducidos por teclado. 
 Los números que introduce el usuario podría tener decimales.
 
-# `Ejemplo 1`
+### `Ejemplo 1`
 
 > Por favor, introduzca el primer número: 3
 >
@@ -104,7 +110,7 @@ Los números que introduce el usuario podría tener decimales.
 > 
 > x * y = 231.0
 
-# `Ejemplo 2`
+### `Ejemplo 2`
 
 > Por favor, introduzca el primer número: 1.5
 >
@@ -122,5 +128,29 @@ Los números que introduce el usuario podría tener decimales.
 > 
 > x * y = 3.0
 
+<br>
 ---
+<br>
+
+## EJERCICIO 5
+
+Escribe un programa que calcule el área de un rectángulo
+
+### `Ejemplo`
+
+>
+> Área de un rectángulo
+>
+> ---------------------
+>
+> Por favor, introduzca la longitud de la base (cm): 12.75
+>
+> Introduzca la altura (cm): 10
+>
+> El área del rectangulo es 127.5 cm<sup>2</sup>
+
+<br>
+--- 
+<br>
+
 
