@@ -154,7 +154,7 @@ Escribe un programa que calcule el área de un rectángulo
 >
 > Introduzca la altura (cm): 10
 >
-> El área del rectangulo es 127.5 cm<sup>2</sup>
+> **El área del rectangulo es 127.5 cm<sup>2</sup>**
 
 <br>
 
@@ -170,6 +170,7 @@ Escribe un programa que calcule el área de un rectángulo
 ### `Ejemplo`
 
 > **Área de un triángulo**
+>
 > ---
 >
 > Por favor, introduzca la longitud de la base (cm): 22
@@ -187,7 +188,7 @@ Escribe un programa que calcule el área de un rectángulo
 
 Escribe un programa que calcule la factura a través de la base imponible
 
-## `Ejemplo`
+### `Ejemplo`
 
 <table>
   <tr><td>Base imponible:</td><td>18.45 €</td></tr>
@@ -202,10 +203,41 @@ Escribe un programa que calcule la factura a través de la base imponible
 
 <br>
 
+## EJERCICIO 8 
 
+Escribe un programa que calcule el salario semanal de un empleado en base a las horas trabajadas, a razón de 12 euros la hora.
 
+### `Ejemplo 1`
 
+> Introduzca el número de horas trabajadas durante la semana: 40
+>
+> Su salario semana es de 480 euros
 
+### `Ejemplo 2`
 
+> Introduzca el número de horas trabajadas durante la semana: 66
+>
+> Su salario semana es de 792 euros
 
+<br>
 
+---
+
+<br>
+
+## EJERCICIO 9
+
+Escribe un programa que calcule el volumen de un cono según la fórmula
+V = (1 / 3) * 3.14159265 * r<sup>2</sup> * h 
+
+### `Ejemplo`
+
+> **Volumen de un cono**
+>
+> ---
+>
+> Por favor, introduzca la altura (cm): 36
+>
+> Introduzca el radio de la base (cm): 9.6
+> 
+> **El volumen del cono es de 3474.35014791168 cm<sup>3</sup>**
