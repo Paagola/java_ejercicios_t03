@@ -4,7 +4,7 @@ Realiza un programa que pida dos números
 enteros y que luego muestre el resultado de
 su multiplicación
 
-## `Ejemplo 1` 
+### `Ejemplo 1` 
 
 > Este programa multiplica dos números entero.
 >
@@ -35,9 +35,7 @@ su multiplicación
 >
 > **-2 * 11 = -22**
  
-<br>
----
-<br>
+ ---
 
 ## EJERCICIO 2
 
